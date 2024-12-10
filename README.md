@@ -20,3 +20,5 @@ Certifique-se de navegar até o diretório correto onde está o projeto.
 Execute o seguinte comando no terminal para construir e iniciar as tabelas:
 
 #### update-database
+
+#### Executa a API
